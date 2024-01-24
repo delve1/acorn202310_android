@@ -1,7 +1,5 @@
 package com.example.hellokotlin
 
-import kotlinx.coroutines.GlobalScope
-
 /*
     [ kotlin 기본 data type ]
     - import 없이 바로 사용할수 있는 data type
