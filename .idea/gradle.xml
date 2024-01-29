@@ -28,6 +28,8 @@
             <option value="$PROJECT_DIR$/step08galleryexample" />
             <option value="$PROJECT_DIR$/step08httprequest" />
             <option value="$PROJECT_DIR$/step08httprequest2" />
+            <option value="$PROJECT_DIR$/step09viewmodel" />
+            <option value="$PROJECT_DIR$/step10bottomnavi" />
           </set>
         </option>
       </GradleProjectSettings>
