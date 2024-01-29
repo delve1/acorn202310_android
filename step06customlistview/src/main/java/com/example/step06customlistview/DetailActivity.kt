@@ -16,7 +16,7 @@ class DetailActivity : AppCompatActivity() { // extends AppCompatActivity
         //Detail 액티비티에 전달된 Intent 객체
         val i:Intent = getIntent()  // getIntent() 액티비티의 메소드
         val dto:CountryDto = i.getSerializableExtra("dto") as CountryDto
-
+        
         //ImageView 의 참조값 얻어오기
         //val imageView = findViewById<ImageView>(R.id.imageView)
         val imageView:ImageView = findViewById(R.id.imageView)
